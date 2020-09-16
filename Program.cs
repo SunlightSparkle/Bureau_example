@@ -7,7 +7,7 @@ class Program
         string contents = "";
 
         System.Console.WriteLine("Öppnar byrålådan...");
-        System.Console.WriteLine("git commit");
+        System.Console.WriteLine("git commit test");
 
         while (true)
         {
